@@ -1,1 +1,2 @@
-# ia-532
+# Individual Assignment #1 532
+# Rada Rudyak
